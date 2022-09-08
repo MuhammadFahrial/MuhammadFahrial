@@ -16,7 +16,7 @@ Hi, I'm Muhammad Fahrial!
 ```
 MuhammadFahrial@github
 -------------------------
-📚 I am student collage in Computer Science from Indonesia
+📚 I am a computer science student at one of the universities in Indonesia
 📝 I have a strong interest in Front-End and Artificial Intelligence
 🌱 Learning about Front-End and Machine Learning stuff
 🎵 Love lofi, jazz and soft music

@@ -10,14 +10,13 @@ Hi, I'm Muhammad Fahrial!
 
 <hr>
 
-```
-MuhammadFahrial@github
+
+Muhammad Fahrial
 -----------------------------
-📚 I am a fresh graduated computer science student at one of the universities in Indonesia
-📝 I have a strong interest in Front-End and Artificial Intelligence
-🌱 Learning about Front-End and Machine Learning stuff
-🎵 Love lofi, jazz and soft music
-```
+- 📚 I am a fresh graduated computer science student at one of the universities in Indonesia
+- 📝 I have a strong interest in Front-End and Artificial Intelligence
+- 🌱 Learning about Front-End and Machine Learning stuff
+- 🎵 Love lofi, jazz and soft music
 
 <hr>
 

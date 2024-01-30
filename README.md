@@ -3,9 +3,6 @@ Hi, I'm Muhammad Fahrial!
 
 <br/>
 
-
-</br>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
@@ -15,12 +12,13 @@ Hi, I'm Muhammad Fahrial!
 
 ```
 MuhammadFahrial@github
--------------------------
+-----------------------------
 📚 I am a fresh graduated computer science student at one of the universities in Indonesia
 📝 I have a strong interest in Front-End and Artificial Intelligence
 🌱 Learning about Front-End and Machine Learning stuff
 🎵 Love lofi, jazz and soft music
 ```
+
 <hr>
 
 <!--- snake -->
